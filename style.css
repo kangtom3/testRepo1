@@ -1,0 +1,18 @@
+* {
+    background-color: floralwhite;
+}
+
+section {
+    color: rgb(66, 161, 185);
+}
+
+/* h1, h2, p { color: rgb(98, 146, 120);} 그룹선택자 , 사용*/
+
+.custom-button {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
